@@ -2,6 +2,8 @@
 
 A curated shelf of cybersecurity, hacking, and supporting fundamentals collected so that anyone can self-study without a paywall. The books live in the repository root; this guide explains how they fit together and how to chart your own path.
 
+### Google Drive Link: https://drive.google.com/drive/folders/1eocSz3hnalhkdJ_LfNKuXWADwRp_M23L?usp=sharing
+
 ## How to Use This Library
 
 - Start with the **Supporting / Prerequisite** titles if you are brand new to programming, operating systems, or networking.
